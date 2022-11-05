@@ -1,0 +1,53 @@
+    /* root */
+
+body{
+    margin-top: 105px;
+}
+
+    /* header */
+
+.img-size {
+    width: 35px;
+    height: 80px;
+}
+
+.container_green {
+    background-color: #C6BD0A;
+}
+
+.bg_oil {
+    background-color: greenyellow;
+}
+
+.img-height {
+    height: 650px;
+}
+
+.title {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 3rem;
+    color: green;
+}
+
+.btn-outline-success {
+    background-color: green;
+    color: lightgray;
+}
+
+    /* footer */
+
+.bg_black {
+    background-color: black;
+}
+
+.c_white {
+    color: white;
+}
+
+.c_oil {
+    color: greenyellow;
+}
+
+.c_insta {
+    color: #D32C73;
+}
